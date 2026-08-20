@@ -16,7 +16,7 @@
             </li>
             <li class="nav-item">
                 <RouterLink :to="{name: 'SignOut'}" class="nav-link" href="#" role="button">
-                    <i class="fas fa-expand-arrows-alt"></i>
+                   <i class="fas fa-sign-out-alt"></i>
                 </RouterLink>
             </li>
         </ul>
